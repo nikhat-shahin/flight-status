@@ -2,7 +2,7 @@
   "name": "flight-status",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://nikhat-shahin.github.io/nikhat-shahin-flight-status/",
+  "homepage": "https://nikhat-shahin.github.io/flight-status/",
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^6.1.0",
     "@fortawesome/free-regular-svg-icons": "^6.1.0",
