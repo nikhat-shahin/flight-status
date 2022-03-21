@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Page Component correctly 1`] = `
+<div
+  className="flight-status__grey-container"
+>
+  <Container
+    fluid={false}
+  >
+    <Row
+      className="flight-status__row"
+    >
+      <Col
+        className="flight-status__col"
+      >
+        <div
+          className="flight-status__time-container"
+        >
+          <p
+            className="flight-status__airport"
+          >
+            Dubai (DXB)
+          </p>
+          <p
+            className="flight-status__state"
+          >
+            Departed:
+          </p>
+          <p
+            className="flight-status__time"
+          >
+            03:15
+          </p>
+          <p
+            className="flight-status__date"
+          >
+            Thu 17 Mar
+          </p>
+          <p
+            className="flight-status__scheduled-time"
+          >
+            Scheduled Departure:
+            03:10
+          </p>
+        </div>
+      </Col>
+      <Col
+        className="flight-status__col"
+      >
+        <img
+          alt="express"
+          className="flight-status__arrow-img"
+          src="arrow.png"
+        />
+      </Col>
+      <Col
+        className="flight-status__col"
+      >
+        <div
+          className="flight-status__time-container"
+        >
+          <p
+            className="flight-status__airport"
+          >
+            London (LHR)
+          </p>
+          <p
+            className="flight-status__state"
+          >
+            Arrived:
+          </p>
+          <p
+            className="flight-status__time"
+          >
+            07:08
+          </p>
+          <p
+            className="flight-status__date"
+          >
+            Thu 17 Mar
+          </p>
+          <p
+            className="flight-status__scheduled-time"
+          >
+            Scheduled Arrival:
+            07:10
+          </p>
+        </div>
+      </Col>
+      <Col
+        className="flight-status__status"
+      >
+        <div
+          className="flight-status__flightstatus flight-status__ARVD__color"
+        >
+          Arrived
+        </div>
+        <p
+          className="flight-status__flight-number-text"
+        >
+          <img
+            alt="express"
+            className="flight-status__flight-number-tail"
+            src="flighttail.svg"
+          />
+           
+          EK 0007
+        </p>
+        <img
+          alt="express"
+          className="flight-status__flight-number-triangle"
+          src="triangleedge.png"
+        />
+      </Col>
+    </Row>
+  </Container>
+</div>
+`;

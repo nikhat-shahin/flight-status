@@ -1,0 +1,25 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  <nav
+    className="navbar"
+  >
+    <h1>
+      NIKHAT SHAHIN KHAN
+    </h1>
+  </nav>
+</div>
+`;
+
+exports[`should set classname for mobile UI and match snaps 1`] = `
+<div>
+  <nav
+    className="navbar"
+  >
+    <h1>
+      NIKHAT SHAHIN KHAN
+    </h1>
+  </nav>
+</div>
+`;

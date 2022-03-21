@@ -1,0 +1,224 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render Page Component correctly 1`] = `
+<Fragment>
+  <NavBar />
+  <FlightStatusResult
+    flightStatusList={
+      Array [
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-16",
+          "flightId": "2022031600007DXB",
+          "flightNumber": "0007",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T07:08:00Z",
+                "estimated": "2022-03-17T06:53:00Z",
+                "schedule": "2022-03-17T07:10:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T03:15:00Z",
+                "estimated": "2022-03-17T03:10:00Z",
+                "schedule": "2022-03-17T03:10:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-20T04:00:55Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "ARVD",
+              "totalTravelDuration": "08:00",
+            },
+          ],
+        },
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-17",
+          "flightId": "2022031700001DXB",
+          "flightNumber": "0001",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T12:14:00Z",
+                "estimated": "2022-03-17T11:37:00Z",
+                "schedule": "2022-03-17T11:40:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T08:02:00Z",
+                "estimated": "2022-03-17T07:45:00Z",
+                "schedule": "2022-03-17T07:45:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-21T04:00:54Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "PDEP",
+              "totalTravelDuration": "07:55",
+            },
+          ],
+        },
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-17",
+          "flightId": "2022031700029DXB",
+          "flightNumber": "0029",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T13:28:00Z",
+                "estimated": "2022-03-17T13:27:00Z",
+                "schedule": "2022-03-17T13:50:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T09:52:00Z",
+                "estimated": "2022-03-17T09:40:00Z",
+                "schedule": "2022-03-17T09:40:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-21T04:00:54Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "ARVD",
+              "totalTravelDuration": "08:10",
+            },
+          ],
+        },
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-17",
+          "flightId": "2022031700031DXB",
+          "flightNumber": "0031",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T15:46:00Z",
+                "estimated": "2022-03-17T15:46:00Z",
+                "schedule": "2022-03-17T16:10:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T12:10:00Z",
+                "estimated": "2022-03-17T12:10:00Z",
+                "schedule": "2022-03-17T12:10:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-21T04:00:54Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "ARVD",
+              "totalTravelDuration": "08:00",
+            },
+          ],
+        },
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-17",
+          "flightId": "2022031700003DXB",
+          "flightNumber": "0003",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T18:46:00Z",
+                "estimated": "2022-03-17T18:45:00Z",
+                "schedule": "2022-03-17T18:20:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T14:59:00Z",
+                "estimated": "2022-03-17T15:10:00Z",
+                "schedule": "2022-03-17T14:30:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-21T04:00:54Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "ARVD",
+              "totalTravelDuration": "07:50",
+            },
+          ],
+        },
+        Object {
+          "airlineDesignator": "EK",
+          "flightDate": "2022-03-17",
+          "flightId": "2022031700005DXB",
+          "flightNumber": "0005",
+          "flightRoute": Array [
+            Object {
+              "arrivalTerminal": "Terminal 3",
+              "arrivalTime": Object {
+                "actual": "2022-03-17T19:51:00Z",
+                "estimated": "2022-03-17T19:52:00Z",
+                "schedule": "2022-03-17T20:00:00Z",
+              },
+              "departureTerminal": "Terminal 3",
+              "departureTime": Object {
+                "actual": "2022-03-17T16:23:00Z",
+                "estimated": "2022-03-17T16:05:00Z",
+                "schedule": "2022-03-17T16:05:00Z",
+              },
+              "destinationActualAirportCode": "London (LHR)",
+              "destinationPlannedAirportCode": "London (LHR)",
+              "flightOutageType": 0,
+              "flightPosition": 100,
+              "isIrregular": "false",
+              "legNumber": "1",
+              "operationalUpdate": Object {
+                "lastUpdated": "2022-01-21T04:00:54Z",
+              },
+              "originActualAirportCode": "Dubai (DXB)",
+              "originPlannedAirportCode": "Dubai (DXB)",
+              "statusCode": "ARVD",
+              "totalTravelDuration": "07:55",
+            },
+          ],
+        },
+      ]
+    }
+    isMobile={false}
+  />
+</Fragment>
+`;
