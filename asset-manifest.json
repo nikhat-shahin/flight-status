@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/nikhat-shahin-flight-status/static/css/main.97318da0.css",
-    "main.js": "/nikhat-shahin-flight-status/static/js/main.0b83ecdc.js",
-    "static/js/787.3c451d5a.chunk.js": "/nikhat-shahin-flight-status/static/js/787.3c451d5a.chunk.js",
-    "static/media/arrow.png": "/nikhat-shahin-flight-status/static/media/arrow.69c09ecb1b638ab00a68.png",
-    "static/media/flighttail.svg": "/nikhat-shahin-flight-status/static/media/flighttail.755a447c38b5e85beb69162e0163de30.svg",
-    "index.html": "/nikhat-shahin-flight-status/index.html",
-    "main.97318da0.css.map": "/nikhat-shahin-flight-status/static/css/main.97318da0.css.map",
-    "main.0b83ecdc.js.map": "/nikhat-shahin-flight-status/static/js/main.0b83ecdc.js.map",
-    "787.3c451d5a.chunk.js.map": "/nikhat-shahin-flight-status/static/js/787.3c451d5a.chunk.js.map"
+    "main.css": "/flight-status/static/css/main.97318da0.css",
+    "main.js": "/flight-status/static/js/main.cc42abf8.js",
+    "static/js/787.3c451d5a.chunk.js": "/flight-status/static/js/787.3c451d5a.chunk.js",
+    "static/media/arrow.png": "/flight-status/static/media/arrow.69c09ecb1b638ab00a68.png",
+    "static/media/flighttail.svg": "/flight-status/static/media/flighttail.755a447c38b5e85beb69162e0163de30.svg",
+    "index.html": "/flight-status/index.html",
+    "main.97318da0.css.map": "/flight-status/static/css/main.97318da0.css.map",
+    "main.cc42abf8.js.map": "/flight-status/static/js/main.cc42abf8.js.map",
+    "787.3c451d5a.chunk.js.map": "/flight-status/static/js/787.3c451d5a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.97318da0.css",
-    "static/js/main.0b83ecdc.js"
+    "static/js/main.cc42abf8.js"
   ]
 }
